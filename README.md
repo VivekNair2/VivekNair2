@@ -38,11 +38,6 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekNair2&layout=compact&theme=tokyonight" height="180" />
 </p>  
 
----
-
-<p align="center">  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>  
-</p>  
 
 ---
 
