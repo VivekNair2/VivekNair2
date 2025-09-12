@@ -17,9 +17,10 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
 </p>  
 
 <p align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="120" style="margin-right:20px;"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/LangChain_Logo.svg" width="120"/>  
 </p>  
+
 
 ---
 
