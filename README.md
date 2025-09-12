@@ -1,17 +1,17 @@
 # Hi, I'm Vivek 👋  
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
 🚀 Software Developer | 🤖 AI/ML Enthusiast | 🎯 Hackathon Explorer  
 
-I'm a Computer Science & Engineering (Data Science) student passionate about building intelligent systems, solving real-world problems with AI, and exploring cutting-edge tech. I enjoy participating in hackathons, collaborating on innovative ideas, and developing projects that push boundaries in Machine Learning and Generative AI.  
+I'm a Computer Science & Engineering (Data Science) student passionate about building intelligent systems, solving real-world problems with AI, and exploring cutting-edge tech. I love hackathons, open-source, and experimenting with Generative AI!  
 
 ---
 
-## 🔥 What I Do  
-- 💻 Develop software solutions with **Python, Java, and JavaScript**  
-- 🤖 Work with **ML, DL, Computer Vision, NLP & Generative AI**  
-- ⚡ Build with **PyTorch, TensorFlow, FastAPI, Flask, ReactJS**  
-- 🛠️ Apply **MLOps tools** like MLflow, DVC, Docker, GitHub Actions  
-- 📊 Visualize and analyze data with **Tableau, Matplotlib, Seaborn**  
+## 🔥 Languages and Tools  
+
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,pytorch,tensorflow,mongodb,postgresql,docker,git,github,linux,aws" />  
+</p>  
 
 ---
 
@@ -23,8 +23,19 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
 ---
 
 ## 📊 GitHub Stats  
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekNair2&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekNair2&layout=compact&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekNair2&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekNair2&layout=compact&theme=tokyonight" height="180" />
+</p>  
+
+---
+
+## ⚡ Fun GIF  
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>  
+</p>  
 
 ---
 
