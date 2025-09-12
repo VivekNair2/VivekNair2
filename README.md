@@ -1,5 +1,8 @@
-# Hi, I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
+# Hi, I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
 
 🚀 Software Developer | 🤖 AI/ML Enthusiast | 🎯 Hackathon Explorer  
 
@@ -14,7 +17,7 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
 </p>  
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>  
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>  
 </p>  
 
@@ -35,8 +38,6 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
 </p>  
 
 ---
-
-## ⚡ Fun GIF  
 
 <p align="center">  
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>  
