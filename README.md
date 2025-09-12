@@ -18,7 +18,7 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
 
 <p align="center">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/>  
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png"/>  
 </p>  
 
 ---
