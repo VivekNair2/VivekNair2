@@ -1,6 +1,6 @@
-# Hi, I'm Vivek 👋  
+# Hi, I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+
 🚀 Software Developer | 🤖 AI/ML Enthusiast | 🎯 Hackathon Explorer  
 
 I'm a Computer Science & Engineering (Data Science) student passionate about building intelligent systems, solving real-world problems with AI, and exploring cutting-edge tech. I love hackathons, open-source, and experimenting with Generative AI!  
@@ -10,7 +10,12 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
 ## 🔥 Languages and Tools  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,pytorch,tensorflow,mongodb,postgresql,docker,git,github,linux,aws" />  
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,pytorch,tensorflow,mongodb,postgresql,docker,git,github,linux" />  
+</p>  
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>  
 </p>  
 
 ---
