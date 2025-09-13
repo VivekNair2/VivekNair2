@@ -17,11 +17,10 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
 </p>  
 
 <p align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="120" style="margin: 0 15px;"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/LangChain_Logo.svg" width="120" style="margin: 0 15px;"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="120" style="margin: 0 15px;"/>  
 </p>  
-
 
 ---
 
@@ -38,7 +37,6 @@ I'm a Computer Science & Engineering (Data Science) student passionate about bui
   <img src="https://github-readme-stats.vercel.app/api?username=VivekNair2&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekNair2&layout=compact&theme=tokyonight" height="180" />
 </p>  
-
 
 ---
 
