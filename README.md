@@ -1,21 +1,20 @@
-<div align="center">
-  <table>
-    <tr>
-      <td width="70%" align="left" style="vertical-align: top;">
+<table>
+  <tr>
+    <td style="width:70%; vertical-align:top;">
 
-# Hi, I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+<h1>Hi, I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
-🚀 Software Developer | 🤖 AI/ML Enthusiast | 🎯 Hackathon Explorer  
+🚀 **Software Developer** &nbsp;|&nbsp; 🤖 **AI/ML Enthusiast** &nbsp;|&nbsp; 🎯 **Hackathon Explorer**
 
-I'm a Computer Science & Engineering (Data Science) student passionate about building intelligent systems, solving real-world problems with AI, and exploring cutting-edge tech. I love hackathons, open-source, and experimenting with Generative AI!  
+I'm a **Computer Science & Engineering (Data Science)** student passionate about building intelligent systems, solving real-world problems with AI, and exploring cutting-edge tech.  
+I love hackathons, open-source, and experimenting with Generative AI!
 
-      </td>
-      <td width="30%" align="right">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-      </td>
-    </tr>
-  </table>
-</div>
+  </td>
+  <td style="width:30%; text-align:center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:10px;"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
