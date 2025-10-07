@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%" align="left" style="vertical-align: top;">
 
 # Hi, I'm Vivek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
 
@@ -8,12 +9,20 @@
 
 I'm a Computer Science & Engineering (Data Science) student passionate about building intelligent systems, solving real-world problems with AI, and exploring cutting-edge tech. I love hackathons, open-source, and experimenting with Generative AI!  
 
+      </td>
+      <td width="30%" align="right">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🔥 Languages and Tools  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,pytorch,tensorflow,mongodb,postgresql,docker,git,github,linux" />  
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,spring,postgresql,mongodb,pytorch,tensorflow,docker,git,github,linux" />  
 </p>  
 
 <p align="center">  
