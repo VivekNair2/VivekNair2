@@ -21,10 +21,11 @@ I love hackathons, open-source, and experimenting with Generative AI!
 ## 🔥 Languages and Tools  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,spring,postgresql,mongodb,pytorch,tensorflow,docker,git,github,linux,aws" />  
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,spring,postgresql,mongodb,pytorch,tensorflow,docker,git,github,linux" />  
 </p>  
 
 <p align="center">  
+  <img src="https://skillicons.dev/icons?i=aws" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="120" style="margin: 0 15px;"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" width="120" style="margin: 0 15px;"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="120" style="margin: 0 15px;"/>  
