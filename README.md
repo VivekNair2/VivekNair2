@@ -21,7 +21,7 @@ I love hackathons, open-source, and experimenting with Generative AI!
 ## 🔥 Languages and Tools  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,spring,postgresql,mongodb,pytorch,tensorflow,docker,git,github,linux" />  
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,flask,spring,postgresql,mongodb,pytorch,tensorflow,docker,git,github,linux,aws" />  
 </p>  
 
 <p align="center">  
