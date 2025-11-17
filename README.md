@@ -34,6 +34,7 @@ I love hackathons, open-source, and experimenting with Generative AI!
 ---
 
 ## 🏆 Achievements  
+- 🥇 1st Prize – **Bit N Build International Hackathon sponsered by IDFC First Bank** 
 - 🥇 1st Prize – **Datazen Datathon 2025 (Core ML Domain)**  
 - 🥇 1st Prize – **Technograd 2.0 (ML & Data Science Coding Competition)**  
 - 🥇 1st Prize – **NSDC Kaggle Competition (ML)**  
